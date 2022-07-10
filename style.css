@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(165, 238, 214);
+}
+
+body noscript h1 {
+    color: red;
+    text-align: center;
+}
+
+.encabezado{
+    text-align: end;
+    color: rgb(5, 61, 15);
+}
